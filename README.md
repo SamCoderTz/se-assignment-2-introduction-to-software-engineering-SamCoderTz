@@ -145,4 +145,4 @@ Codes of Conduct: Adhering to professional codes of ethics, such as those provid
 Ongoing Education: Staying informed about ethical issues and best practices.
 Stakeholder Engagement: Involving diverse stakeholders in the development process to understand and address ethical concerns.
 Accountability: Taking responsibility for the software's impact and making decisions that prioritize user welfare and societal good.
-Submit your completed assignment by [due date].
+
